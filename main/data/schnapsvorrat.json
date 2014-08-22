@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4236258.47, 5435700.12]
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "meineProjektion"
+        }
+    }
+}

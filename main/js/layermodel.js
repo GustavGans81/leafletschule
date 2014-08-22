@@ -1,0 +1,4 @@
+var layermodel = {
+    baseLayers: {},
+    overlayLayers: {}
+}

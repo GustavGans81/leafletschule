@@ -1,0 +1,64 @@
+{ "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.385, 49.004]
+            },
+            "properties": {
+                "name": "synyx Karlsruhe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.402023, 52.529041]
+            },
+            "properties": {
+                "name": "synyx Berlin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.962562, 53.549649]
+            },
+            "properties": {
+                "name": "synyx Hamburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.579904, 48.137846]
+            },
+            "properties": {
+                "name": "synyx München"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.914264, 51.116065]
+            },
+            "properties": {
+                "name": "synyx Dresden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.385046, 51.676783]
+            },
+            "properties": {
+                "name": "synyx Walachei"
+            }
+        }
+    ]
+}
